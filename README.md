@@ -38,8 +38,9 @@
 
 📜 Formação (education_certs.txt)
 ```
-- 🎓 Curso Técnico em Desenvolvimento de Sistemas – ETEC
+- 🎓 MBA - Cybersecurity USP/Esalq
 - 🎓 Graduação em Defesa Cibernética – FIAP
+- 🎓 Curso Técnico em Desenvolvimento de Sistemas – ETEC
 - 🧩 CyberOps Cisco
 - 🧩 Programa Hackers do Bem – RNP/SENAI
 ```
